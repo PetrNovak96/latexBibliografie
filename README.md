@@ -19,7 +19,7 @@
    title =     {Cizinec hledá byt},
    author =    {Egon Hostovský},
    publisher = {Melantrich},
-   isbn =      {1491958375,9781491958377},
+   isbn =      {9781491958377},
    year =      {1947}
 }   
 ```
