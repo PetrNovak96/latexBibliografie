@@ -2,7 +2,7 @@
 
 1. vytvoř si v projektu nový soubor ```literatura.bib```
 2. na vršek souboru ```main.tex``` přidej tento kód:
-```
+```TeX
 %%% Nastavení pro použití samostatné bibliografické databáze.
 \usepackage[
    backend=biber
@@ -26,11 +26,11 @@
 }   
 ```
 5. někde na konci dokumentu urči, kde se seznam literatury vytiskne:
-```
+```TeX
 \printbibliography[title={Seznam použité literatury},heading={bibintoc}]
 ```
 6. na libovolném místě v textu použij citaci:
-```
+```TeX
 \cite{timtoSeOdkazuju}
 ```
 7. <kbd>Ctrl+S</kbd> pro zkompilování kódu. Měl by se potom objevit seznam použité literatury s jednou citací.
