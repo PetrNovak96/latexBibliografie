@@ -31,7 +31,7 @@
 ```TeX
 nějaký text\cite{timtoSeOdkazuju} %mezi \cite a textem by němel být bílý znak (mezera)
 ```
-7. <kbd>Ctrl+S</kbd> pro zkompilování kódu. Měl by se potom objevit seznam použité literatury s jednou citací. Takže pak už jenom přidáváš citace do ```literatura.bib``` a ```\cite``` příkazy do text. Nakonec ti to samo vygeneruje takovýto pěkný seznam:
+7. <kbd>Ctrl</kbd>+<kbd>S</kbd> pro zkompilování kódu. Měl by se potom objevit seznam použité literatury s jednou citací. Takže pak už jenom přidáváš citace do ```literatura.bib``` a ```\cite``` příkazy do text. Nakonec ti to samo vygeneruje takovýto pěkný seznam:
 
 ![](hotove.png)
 
